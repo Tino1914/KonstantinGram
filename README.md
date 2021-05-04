@@ -1,3 +1,14 @@
+
+## You can fin the hosted version here: https://konstantin-gram.web.app/ 
+## and play around.
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
